@@ -1,0 +1,24 @@
+{
+  "name": "react-native-toggler",
+  "version": "0.1.0",
+  "description": "Another method of implementing a multi-step toggle element",
+  "main": "Toggle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jason-c-child/react-native-toggler.git"
+  },
+  "keywords": [
+    "react-native",
+    "toggle",
+    "toggler"
+  ],
+  "author": "Jason Child",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jason-c-child/react-native-toggler/issues"
+  },
+  "homepage": "https://github.com/jason-c-child/react-native-toggler#readme"
+}
