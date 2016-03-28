@@ -17,5 +17,6 @@
   "bugs": {
     "url": "https://github.com/jason-c-child/react-native-toggler/issues"
   },
-  "homepage": "https://github.com/jason-c-child/react-native-toggler#readme"
+  "homepage": "https://github.com/jason-c-child/react-native-toggler#readme",
+  "dependencies": {}
 }
